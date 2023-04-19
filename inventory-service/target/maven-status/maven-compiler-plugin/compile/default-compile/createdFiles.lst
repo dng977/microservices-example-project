@@ -1,0 +1,5 @@
+com\dimitar\inventoryservice\repository\InventoryRepository.class
+com\dimitar\inventoryservice\service\InventoryService.class
+com\dimitar\inventoryservice\controller\InventoryController.class
+com\dimitar\inventoryservice\InventoryServiceApplication.class
+com\dimitar\inventoryservice\model\Inventory.class

@@ -1,0 +1,8 @@
+com\dimitar\orderservice\OrderServiceApplication.class
+com\dimitar\orderservice\service\OrderService.class
+com\dimitar\orderservice\dto\OrderRequest.class
+com\dimitar\orderservice\model\OrderLineItems.class
+com\dimitar\orderservice\repository\OrderRepository.class
+com\dimitar\orderservice\controller\OrderController.class
+com\dimitar\orderservice\dto\OrderLineItemsDto.class
+com\dimitar\orderservice\model\Order.class

@@ -1,0 +1,10 @@
+com\dimitar\productservice\service\ProductService.class
+com\dimitar\productservice\controller\ProductController.class
+com\dimitar\productservice\dto\ProductRequest.class
+com\dimitar\productservice\ProductServiceApplication.class
+com\dimitar\productservice\model\Product$ProductBuilder.class
+com\dimitar\productservice\dto\ProductResponse.class
+com\dimitar\productservice\repository\ProductRepository.class
+com\dimitar\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\dimitar\productservice\model\Product.class
+com\dimitar\productservice\dto\ProductRequest$ProductRequestBuilder.class

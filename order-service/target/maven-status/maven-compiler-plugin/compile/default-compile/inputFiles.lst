@@ -1,0 +1,8 @@
+C:\Users\dgarb\Development\Projects\microservices-example-project-new\order-service\src\main\java\com\dimitar\orderservice\controller\OrderController.java
+C:\Users\dgarb\Development\Projects\microservices-example-project-new\order-service\src\main\java\com\dimitar\orderservice\OrderServiceApplication.java
+C:\Users\dgarb\Development\Projects\microservices-example-project-new\order-service\src\main\java\com\dimitar\orderservice\repository\OrderRepository.java
+C:\Users\dgarb\Development\Projects\microservices-example-project-new\order-service\src\main\java\com\dimitar\orderservice\model\Order.java
+C:\Users\dgarb\Development\Projects\microservices-example-project-new\order-service\src\main\java\com\dimitar\orderservice\model\OrderLineItems.java
+C:\Users\dgarb\Development\Projects\microservices-example-project-new\order-service\src\main\java\com\dimitar\orderservice\dto\OrderRequest.java
+C:\Users\dgarb\Development\Projects\microservices-example-project-new\order-service\src\main\java\com\dimitar\orderservice\service\OrderService.java
+C:\Users\dgarb\Development\Projects\microservices-example-project-new\order-service\src\main\java\com\dimitar\orderservice\dto\OrderLineItemsDto.java
