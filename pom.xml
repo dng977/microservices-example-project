@@ -11,7 +11,7 @@
     </parent>
 
     <groupId>com.dimitar</groupId>
-    <artifactId>microservices-example-project-new</artifactId>
+    <artifactId>microservices-example-project</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
