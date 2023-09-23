@@ -1,5 +1,6 @@
-C:\Users\dgarb\Development\Projects\microservices-example-project-new\inventory-service\src\main\java\com\dimitar\inventoryservice\model\Inventory.java
-C:\Users\dgarb\Development\Projects\microservices-example-project-new\inventory-service\src\main\java\com\dimitar\inventoryservice\repository\InventoryRepository.java
-C:\Users\dgarb\Development\Projects\microservices-example-project-new\inventory-service\src\main\java\com\dimitar\inventoryservice\controller\InventoryController.java
-C:\Users\dgarb\Development\Projects\microservices-example-project-new\inventory-service\src\main\java\com\dimitar\inventoryservice\InventoryServiceApplication.java
-C:\Users\dgarb\Development\Projects\microservices-example-project-new\inventory-service\src\main\java\com\dimitar\inventoryservice\service\InventoryService.java
+C:\Users\dgarb\Development\Projects\microservices-example-project\inventory-service\src\main\java\com\dimitar\inventoryservice\model\Inventory.java
+C:\Users\dgarb\Development\Projects\microservices-example-project\inventory-service\src\main\java\com\dimitar\inventoryservice\controller\InventoryController.java
+C:\Users\dgarb\Development\Projects\microservices-example-project\inventory-service\src\main\java\com\dimitar\inventoryservice\service\InventoryService.java
+C:\Users\dgarb\Development\Projects\microservices-example-project\inventory-service\src\main\java\com\dimitar\inventoryservice\dto\InventoryResponse.java
+C:\Users\dgarb\Development\Projects\microservices-example-project\inventory-service\src\main\java\com\dimitar\inventoryservice\InventoryServiceApplication.java
+C:\Users\dgarb\Development\Projects\microservices-example-project\inventory-service\src\main\java\com\dimitar\inventoryservice\repository\InventoryRepository.java

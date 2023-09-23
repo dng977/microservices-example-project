@@ -1,0 +1,3 @@
+com\dimitar\apigateway\ServerPortCustomizer.class
+com\dimitar\apigateway\ApiGatewayApplication.class
+com\dimitar\apigateway\config\SecurityConfig.class
